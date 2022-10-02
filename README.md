@@ -1,3 +1,2 @@
 # CSE114
-Go to src file
-and you can see all the practice questions solved
+All practice questions are solved in Java language including some leetcode hard and medium problems
